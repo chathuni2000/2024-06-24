@@ -1,0 +1,13 @@
+h1{
+    background-color: black;
+    color: #008035;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    color: rgb(0, 119, 128);
+    padding: 50px;
+    font-weight: 800;
+}
